@@ -1,0 +1,22 @@
+#google {
+    color:greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.first-footer {
+    color:burlywood;
+    font-weight: bold;
+}
+
+h2 {
+    color:blue;
+    font-weight:bold;
+}
+
+body {
+    background-image: url('../images/image1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
